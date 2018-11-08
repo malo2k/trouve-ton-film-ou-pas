@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Movie search</title>
+</head>
+<body>
+	<div class="center">
+		<h1>Essaye de rechercher ton film</h1>
+
+			<form action="/search" method="POST">
+				<div>
+				<input type="hidden" name="authenticity_token" value="<%= form_authenticity_token %>">
+			</div>
+			<div>
+				<input type="text" class="form-control" name="data" placeholder="Ton film">
+			</div>
+			<div>
+				 <button type="submit" class="btn btn-primary">Chercher</button>
+			</div>
+
+
+
+	</div>
+</body>
+</html>
