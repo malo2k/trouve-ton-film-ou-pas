@@ -1,24 +1,12 @@
-# README
+# Exercice THP Movie Searcher
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Jeudi 8 Novembre par Malo
 
-Things you may want to cover:
+Bon comme tu as pu le remarquer ya pas grand chose, mais c'est normal, après avoir galéré toute la journée sur l'autre exercice pas pu faire celui-là
+J'aurais bien aimé mais pas trop compris le système d'API
+J'espère qu'avec l'autre ce sera suffisant.
+Malheureusement j'avais d'autres obligations ce soir. Plus d'infos sur https://www.facebook.com/effroyableassociation/
 
-* Ruby version
+Lien heroku (juste pour la forme) https://trouve-ton-film-ou-pas.herokuapp.com/
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+(Sinon t'as aussi Allociné, IMdb, Senscritique, pas besoin de 15000 applis non plus)
